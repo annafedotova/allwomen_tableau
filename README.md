@@ -1,7 +1,7 @@
 # allwomen_tableau
 Presenation materials for Intro to Data Visualization with Tableau training session
 
-The session consistes of the following parts:
+The session consists of the following parts:
 
 - Data Visualization Fundamentals (theory)
 - Tableau Fundamentals with Netflix dataset (practice)
